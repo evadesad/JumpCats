@@ -5,6 +5,7 @@ const OVERPASS_ENDPOINTS = [
 ];
 
 const fallbackDropzones = [
+  { id: 'fallback-jelenia-gora', name: 'Jelenia Góra Dropzone', lat: 50.8798, lon: 15.7194, place: 'Jelenia Góra, Lower Silesia, Poland' },
   { id: 'fallback-pushchino', name: 'Pushchino Dropzone', lat: 54.8438, lon: 37.6237, place: 'Bolshoe Gryzlovo, Moscow Oblast, Russia' },
   { id: 'fallback-1', name: 'Skydive Perris', lat: 33.7617, lon: -117.2184, place: 'Perris, CA' },
   { id: 'fallback-2', name: 'Skydive Spaceland Houston', lat: 29.6028, lon: -95.6106, place: 'Rosharon, TX' },
