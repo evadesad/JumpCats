@@ -9,5 +9,8 @@
         <module name="JumpCats" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JumpCats" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
